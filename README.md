@@ -1,0 +1,2 @@
+# -Banking-Application-using-Spring-Boot-3-Spring-Data-JPA-Hibernate-MySQL
+This Banking Application is designed to handle core banking operations such as account management, deposits, withdrawals, and transactions. Built using Spring Boot 3, it leverages the powerful features of Spring Data JPA for seamless interaction with the database, using Hibernate as the ORM tool. The back-end is powered by MySQL.
